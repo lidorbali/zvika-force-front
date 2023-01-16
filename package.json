@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "proxy": "https://zvika-force-back.onrender.com",  
+  "homepage": "http://lidorbali.github.io/zvika-force-front",
 
   "version": "0.1.0",
   "private": true,
