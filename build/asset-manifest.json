@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zvika-force-front/static/css/main.886198ef.css",
+    "main.js": "/zvika-force-front/static/js/main.056250db.js",
+    "static/js/787.cda612ba.chunk.js": "/zvika-force-front/static/js/787.cda612ba.chunk.js",
+    "index.html": "/zvika-force-front/index.html",
+    "main.886198ef.css.map": "/zvika-force-front/static/css/main.886198ef.css.map",
+    "main.056250db.js.map": "/zvika-force-front/static/js/main.056250db.js.map",
+    "787.cda612ba.chunk.js.map": "/zvika-force-front/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886198ef.css",
+    "static/js/main.056250db.js"
+  ]
+}
